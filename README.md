@@ -20,7 +20,7 @@ Skills: Hacking, Cracking, Carding, Pen-Testing, Malware & Exploit Development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4950MW4R3)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4950MW4R3&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=R4950MW4R3&show_icons=true&theme=radical)
 
 ![GitHub metrics](https://metrics.lecoq.io/R4950MW4R3)  
 
