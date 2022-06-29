@@ -16,7 +16,7 @@ Skills: Hacking, Cracking, Carding, Pen-Testing, Malware & Exploit Development.
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=R4950MW4R3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=R4950MW4R3)](https://github.com/R4950MW4R3)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4950MW4R3)](https://github.com/R4950MW4R3)
 
