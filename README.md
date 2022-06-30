@@ -18,10 +18,10 @@ Skills: Hacking, Cracking, Carding, Pen-Testing, Malware & Exploit Development.
 <a href="https://github.com/R4950MW4R3"><img width=550 src="https://github-profile-trophy.vercel.app/?username=R4950MW4R3&theme=radical&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 
-<a href="https://github.com/R4950MW4R3"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=R4950MW4R3&color=radical&style=flat-square"></a>
+<a href="https://github.com/R4950MW4R3"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=R4950MW4R3&color=blueviolet&style=flat-square"></a>
 
 <p align="center"><a href="https://github.com/R4950MW4R3">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=R4950MW4R3&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=R4950MW4R3&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/R4950MW4R3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4950MW4R3&layout=compact&theme=react&hide_border=true" />
+<a href="https://github.com/R4950MW4R3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4950MW4R3&layout=compact&theme=radical&hide_border=true" />
 </a></p>
