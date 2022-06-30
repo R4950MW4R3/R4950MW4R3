@@ -18,12 +18,10 @@ Skills: Hacking, Cracking, Carding, Pen-Testing, Malware & Exploit Development.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=R4950MW4R3)](https://github.com/R4950MW4R3)
 
+<a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=R4950MW4R3&color=blueviolet&style=flat-square"></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4950MW4R3)](https://github.com/R4950MW4R3)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=R4950MW4R3&show_icons=true&theme=radical)
 
 ![GitHub metrics](https://metrics.lecoq.io/R4950MW4R3)  
-
-
-
-![Profile views](https://gpvc.arturio.dev/R4950MW4R3)  
