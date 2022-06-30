@@ -20,8 +20,8 @@ Skills: Hacking, Cracking, Carding, Pen-Testing, Malware & Exploit Development.
 
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=R4950MW4R3&color=blueviolet&style=flat-square"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4950MW4R3)](https://github.com/R4950MW4R3)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=R4950MW4R3&show_icons=true&theme=radical)
-
-![GitHub metrics](https://metrics.lecoq.io/R4950MW4R3)  
+<p align="center"><a href="https://github.com/R4950MW4R3">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=R4950MW4R3&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/R4950MW4R3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4950MW4R3&layout=compact&theme=react&hide_border=true" />
+</a></p>
